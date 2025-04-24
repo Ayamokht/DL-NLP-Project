@@ -12,7 +12,9 @@ Prédire le code produit `prdtypecode` à partir :
 - des descriptions (`description`)
 - des images associées
 
+
 Ce projet combine des méthodes classiques de traitement du langage naturel (comme TF-IDF couplé à une régression logistique) avec des modèles profonds plus avancés, tels que TextCNN pour le texte et ResNet50 pour les images, afin de prédire efficacement le code produit (prdtypecode).
+
 ---
 
 ## 🗂️ Structure du projet
