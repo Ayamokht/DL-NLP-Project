@@ -8,3 +8,5 @@ __pycache__/
 Outputs/
 data/
 __pycache__/
+sandbox/*.ipynb
+*.h5
