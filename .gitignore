@@ -1,12 +1,6 @@
-.DS_Store
 .venv/
 Outputs/
 data/
 __pycache__/
 .DS_Store
-.venv/
-Outputs/
-data/
-__pycache__/
-sandbox/*.ipynb
 *.h5
